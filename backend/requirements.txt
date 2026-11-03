@@ -1,0 +1,8 @@
+
+fastapi[standard]
+uvicorn
+sqlmodel
+sqlalchemy
+pydantic-settings
+psycopg[binary]
+qdrant-client
